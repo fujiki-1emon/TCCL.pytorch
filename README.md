@@ -54,7 +54,7 @@
 
 ## Usage
 - Dowload the pouring dataset (https://drive.google.com/file/d/1GVyv1oPv7-a08zKx_aANikgtaSJrSvEt/view?usp=sharing) and put it in the `data/` directory.
-- And run the program like,
+- `cd src/` and run the program like,
 
 ```
 $ python main.py --normalize_indices --num_frames 20 --batch_size 4 
